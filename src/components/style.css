@@ -1,0 +1,16 @@
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.card {
+  display: flex;
+  gap: 10px;
+  border: 1px solid gray;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.card img {
+  width: 120px;
+}
